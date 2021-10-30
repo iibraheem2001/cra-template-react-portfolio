@@ -1,0 +1,29 @@
+{
+  "package": {
+    "name": "react-portfolio",
+    "homepage": ".",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "bootstrap": "^4.5",
+      "jquery": "^3.5",
+      "react-awesome-slider": "^4.1",
+      "react-bootstrap": "^1.3",
+      "react-ga": "^3.1",
+      "react-router-bootstrap": "^0.25.0",
+      "react-router-dom": "^5.3.0",  
+      "react-switch": "^6.0",
+      "react-vertical-timeline-component": "^3.3"
+    },
+    "scripts": {
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+    },
+    "devDependencies": {
+      "@iconify/icons-logos": "^1.0.12",
+      "@iconify/react": "^1.1.3",
+      "gh-pages": "^3.1.0",
+      "node-sass": "^6.0.1"
+    }
+  }
+}

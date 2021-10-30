@@ -1,0 +1,55 @@
+{
+  "_from": "cra-template-react-portfolio",
+  "_id": "cra-template-react-portfolio@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-5U8lhwS8+6U7M0zAmC9U76crJbq2tt3IOgbGzYbo4LGEsr9mOuxTVihic3foTqC2DeWrTV3xrbnnsX+RxBPyhw==",
+  "_location": "/cra-template-react-portfolio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cra-template-react-portfolio",
+    "name": "cra-template-react-portfolio",
+    "escapedName": "cra-template-react-portfolio",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cra-template-react-portfolio/-/cra-template-react-portfolio-2.0.0.tgz",
+  "_shasum": "84323e4da418f69b4772d9267acf237fce890b76",
+  "_spec": "cra-template-react-portfolio",
+  "_where": "/home/iibraheem2001/code-301/portfolio/portfolio",
+  "bugs": {
+    "url": "https://github.com/codefellows/cra-template-react-portfolio/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A Create React App template to create a starter portfolio.",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "homepage": "https://github.com/codefellows/cra-template-react-portfolio#readme",
+  "keywords": [
+    "create-react-app",
+    "portfolio",
+    "react",
+    "react-bootstrap",
+    "template"
+  ],
+  "license": "MIT",
+  "name": "cra-template-react-portfolio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows/cra-template-react-portfolio.git",
+    "directory": "packages/cra-template-react-portfolio"
+  },
+  "version": "2.0.0"
+}
